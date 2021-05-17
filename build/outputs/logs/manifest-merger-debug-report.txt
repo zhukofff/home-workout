@@ -1,0 +1,496 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\31804db168128bfb91bf811dff4945ee\databinding-adapters-4.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\40afa75f5c6b501fcb5a63e36005fb23\databinding-runtime-4.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9c98d227e2f22ac89a1ef49fa99b6da8\navigation-ui-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0d10b2119ddc81f1e7021d6024340c96\navigation-ui-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a022b3fa1d28db59e7bf6630667d3119\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6e37e835c445e6a06d0a2c117faf4e9c\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a9fc13136e02056f8d7720ee8a19d03d\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7dce7bf963016c490c47de8362888b4b\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ad4ec773908990f4c9291b9a51b6bf17\navigation-fragment-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f860cfb755c791dd666669fb0118e524\fragment-ktx-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\db311e50ff90b26933226c8d5dea8321\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\bb0a49b78c1fb2e24308605b9f59b776\hilt-lifecycle-viewmodel-1.0.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-work:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4bd378fa67b80c7c72837a56dcf9f14e\hilt-work-1.0.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0dc75880acb09f98af521ca5250ecf51\hilt-common-1.0.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.28.3-alpha] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\610d260757bc16e83edb35324aa74f44\hilt-android-2.28.3-alpha\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\114af1d6e28b12a9ba9ec25f9589a778\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\8045dec26788d4d48200590944f9d118\navigation-fragment-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0c980afa8a794090cf4eb3f2ce891046\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\588b9f2db9fe95db2bb4801a701ded43\navigation-runtime-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ea0fd62ecc1b754432b3949920f68008\activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7103185aa210b592db4831d904ba1b72\navigation-common-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9bf89882af2819704acbfaedc6e5238d\core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f2aa08e26c634da0b48b9f33c207f5a4\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\fd69fd84ebf316efbea7cde4fdde34bc\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9e2a268cd3461d24c4ee1c373cadb5aa\room-ktx-2.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\17e31c8f9efd62baa51ced9855445173\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b5ecb95cc33fbf2fc2c7342c3b7e7d56\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:17:1-132:12
+MERGED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3fa5228e2e5107055d5bfb45f9f3ef18\viewbinding-4.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\40bb21f8b1e2ffa0d9e3c5b5fa8790a6\navigation-runtime-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\88e973895319844c094ae0335f164497\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\48023e01e2a4e6a2f087c0d8128c86da\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\326c2e66e9d69d921413b69dcd998d27\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\601361d4432170b7c7c51e993f509fd4\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\c89a6af7626b42aeb565b41110731eb8\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b438c257c9a567ec509b7af807ca17b7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\be214e53af5c34b20bc40b07b9a9bff8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\30192a0a0d06b5b167d93a30aa726431\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\374147111d01ad1a470c6fd8b018e681\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\84a256f499c3086834246e39d304a9d0\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ff25c9b12a61810590e43e5131eced51\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c4c8454313fc5f3eeea1b0dc898dadb\navigation-common-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6fc3875e4e21aadbaa08f5bc10b6e8b0\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7acd50ad94f5131bbdd6eccb90d24484\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\dd0aacf03816d785a1981dd28ee7c3f7\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4539a97605a6370e11171f95e0a496dd\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\c649d7cdb8fe23d300aef6de03f6ff1e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\335bb30cc6069b7410b876b0de1362ab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\856f893fa56be56e7f79769dee2d9970\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\675db9a69016614d51c130082b95f5a3\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f118a03f50d616f2eead80d5598dcb7d\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\666e5edd15161ff729cc9d5c6160a892\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0925aac2a7b400e210b43981b0da27fb\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\80f8655944be0183088ed963022c633f\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f972e185c151d27404b7962c4eaa2020\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b50da3cbc8fe27a02cc8c11a1643d636\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\5f9c41a9e52e699fff7be76953d0f82c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b855657c5d93a64bf6712590e79ba72e\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.28.3] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\83bb89eaa143a3741dcfe2505be66b84\dagger-lint-aar-2.28.3\AndroidManifest.xml:16:1-19:12
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.2.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a022b3fa1d28db59e7bf6630667d3119\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a022b3fa1d28db59e7bf6630667d3119\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6e37e835c445e6a06d0a2c117faf4e9c\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6e37e835c445e6a06d0a2c117faf4e9c\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\db311e50ff90b26933226c8d5dea8321\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\db311e50ff90b26933226c8d5dea8321\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:30:5-130:19
+MERGED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:30:5-130:19
+MERGED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6fc3875e4e21aadbaa08f5bc10b6e8b0\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6fc3875e4e21aadbaa08f5bc10b6e8b0\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4539a97605a6370e11171f95e0a496dd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4539a97605a6370e11171f95e0a496dd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6fc3875e4e21aadbaa08f5bc10b6e8b0\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:12:9-41
+	android:name
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:6:9-31
+activity#com.example.gym.MainActivity
+ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\31804db168128bfb91bf811dff4945ee\databinding-adapters-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\31804db168128bfb91bf811dff4945ee\databinding-adapters-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\40afa75f5c6b501fcb5a63e36005fb23\databinding-runtime-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\40afa75f5c6b501fcb5a63e36005fb23\databinding-runtime-4.1.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9c98d227e2f22ac89a1ef49fa99b6da8\navigation-ui-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9c98d227e2f22ac89a1ef49fa99b6da8\navigation-ui-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0d10b2119ddc81f1e7021d6024340c96\navigation-ui-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0d10b2119ddc81f1e7021d6024340c96\navigation-ui-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a022b3fa1d28db59e7bf6630667d3119\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a022b3fa1d28db59e7bf6630667d3119\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6e37e835c445e6a06d0a2c117faf4e9c\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6e37e835c445e6a06d0a2c117faf4e9c\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a9fc13136e02056f8d7720ee8a19d03d\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\a9fc13136e02056f8d7720ee8a19d03d\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7dce7bf963016c490c47de8362888b4b\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7dce7bf963016c490c47de8362888b4b\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ad4ec773908990f4c9291b9a51b6bf17\navigation-fragment-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ad4ec773908990f4c9291b9a51b6bf17\navigation-fragment-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f860cfb755c791dd666669fb0118e524\fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f860cfb755c791dd666669fb0118e524\fragment-ktx-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\db311e50ff90b26933226c8d5dea8321\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\db311e50ff90b26933226c8d5dea8321\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\bb0a49b78c1fb2e24308605b9f59b776\hilt-lifecycle-viewmodel-1.0.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\bb0a49b78c1fb2e24308605b9f59b776\hilt-lifecycle-viewmodel-1.0.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-work:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4bd378fa67b80c7c72837a56dcf9f14e\hilt-work-1.0.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-work:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4bd378fa67b80c7c72837a56dcf9f14e\hilt-work-1.0.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0dc75880acb09f98af521ca5250ecf51\hilt-common-1.0.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha02] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0dc75880acb09f98af521ca5250ecf51\hilt-common-1.0.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.28.3-alpha] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\610d260757bc16e83edb35324aa74f44\hilt-android-2.28.3-alpha\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.28.3-alpha] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\610d260757bc16e83edb35324aa74f44\hilt-android-2.28.3-alpha\AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\114af1d6e28b12a9ba9ec25f9589a778\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\114af1d6e28b12a9ba9ec25f9589a778\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\8045dec26788d4d48200590944f9d118\navigation-fragment-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\8045dec26788d4d48200590944f9d118\navigation-fragment-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0c980afa8a794090cf4eb3f2ce891046\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0c980afa8a794090cf4eb3f2ce891046\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\588b9f2db9fe95db2bb4801a701ded43\navigation-runtime-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\588b9f2db9fe95db2bb4801a701ded43\navigation-runtime-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ea0fd62ecc1b754432b3949920f68008\activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ea0fd62ecc1b754432b3949920f68008\activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7103185aa210b592db4831d904ba1b72\navigation-common-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7103185aa210b592db4831d904ba1b72\navigation-common-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9bf89882af2819704acbfaedc6e5238d\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9bf89882af2819704acbfaedc6e5238d\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f2aa08e26c634da0b48b9f33c207f5a4\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f2aa08e26c634da0b48b9f33c207f5a4\lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\fd69fd84ebf316efbea7cde4fdde34bc\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\fd69fd84ebf316efbea7cde4fdde34bc\lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9e2a268cd3461d24c4ee1c373cadb5aa\room-ktx-2.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\9e2a268cd3461d24c4ee1c373cadb5aa\room-ktx-2.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\17e31c8f9efd62baa51ced9855445173\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\17e31c8f9efd62baa51ced9855445173\lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b5ecb95cc33fbf2fc2c7342c3b7e7d56\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b5ecb95cc33fbf2fc2c7342c3b7e7d56\lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3fa5228e2e5107055d5bfb45f9f3ef18\viewbinding-4.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3fa5228e2e5107055d5bfb45f9f3ef18\viewbinding-4.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\40bb21f8b1e2ffa0d9e3c5b5fa8790a6\navigation-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\40bb21f8b1e2ffa0d9e3c5b5fa8790a6\navigation-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\88e973895319844c094ae0335f164497\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\88e973895319844c094ae0335f164497\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\48023e01e2a4e6a2f087c0d8128c86da\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\48023e01e2a4e6a2f087c0d8128c86da\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\326c2e66e9d69d921413b69dcd998d27\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\326c2e66e9d69d921413b69dcd998d27\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\601361d4432170b7c7c51e993f509fd4\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\601361d4432170b7c7c51e993f509fd4\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\c89a6af7626b42aeb565b41110731eb8\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\c89a6af7626b42aeb565b41110731eb8\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b438c257c9a567ec509b7af807ca17b7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b438c257c9a567ec509b7af807ca17b7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\be214e53af5c34b20bc40b07b9a9bff8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\be214e53af5c34b20bc40b07b9a9bff8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\30192a0a0d06b5b167d93a30aa726431\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\30192a0a0d06b5b167d93a30aa726431\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\374147111d01ad1a470c6fd8b018e681\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\374147111d01ad1a470c6fd8b018e681\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\84a256f499c3086834246e39d304a9d0\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\84a256f499c3086834246e39d304a9d0\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ff25c9b12a61810590e43e5131eced51\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ff25c9b12a61810590e43e5131eced51\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c4c8454313fc5f3eeea1b0dc898dadb\navigation-common-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c4c8454313fc5f3eeea1b0dc898dadb\navigation-common-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6fc3875e4e21aadbaa08f5bc10b6e8b0\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\6fc3875e4e21aadbaa08f5bc10b6e8b0\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7acd50ad94f5131bbdd6eccb90d24484\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\7acd50ad94f5131bbdd6eccb90d24484\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\dd0aacf03816d785a1981dd28ee7c3f7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\dd0aacf03816d785a1981dd28ee7c3f7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4539a97605a6370e11171f95e0a496dd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\4539a97605a6370e11171f95e0a496dd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\c649d7cdb8fe23d300aef6de03f6ff1e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\c649d7cdb8fe23d300aef6de03f6ff1e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\335bb30cc6069b7410b876b0de1362ab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\335bb30cc6069b7410b876b0de1362ab\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\856f893fa56be56e7f79769dee2d9970\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\856f893fa56be56e7f79769dee2d9970\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\675db9a69016614d51c130082b95f5a3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\675db9a69016614d51c130082b95f5a3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f118a03f50d616f2eead80d5598dcb7d\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f118a03f50d616f2eead80d5598dcb7d\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\666e5edd15161ff729cc9d5c6160a892\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\666e5edd15161ff729cc9d5c6160a892\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0925aac2a7b400e210b43981b0da27fb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\0925aac2a7b400e210b43981b0da27fb\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\80f8655944be0183088ed963022c633f\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\80f8655944be0183088ed963022c633f\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f972e185c151d27404b7962c4eaa2020\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\f972e185c151d27404b7962c4eaa2020\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b50da3cbc8fe27a02cc8c11a1643d636\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b50da3cbc8fe27a02cc8c11a1643d636\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\5f9c41a9e52e699fff7be76953d0f82c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\5f9c41a9e52e699fff7be76953d0f82c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b855657c5d93a64bf6712590e79ba72e\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\b855657c5d93a64bf6712590e79ba72e\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.28.3] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\83bb89eaa143a3741dcfe2505be66b84\dagger-lint-aar-2.28.3\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.28.3] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\83bb89eaa143a3741dcfe2505be66b84\dagger-lint-aar-2.28.3\AndroidManifest.xml:18:3-42
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:28:22-74
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:114:13-118:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:115:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.3.4] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\3c84b656f22cda861504c1fb8c5376ce\work-runtime-2.3.4\AndroidManifest.xml:127:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0-alpha01] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\ee08c803aadd3b157e1f0c7c461e4fdc\room-runtime-2.3.0-alpha01\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] D:\Program Files (x86)\new Android Studio\jre\caches\transforms-2\files-2.1\266ee712065123582b1c13d7a49285c6\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

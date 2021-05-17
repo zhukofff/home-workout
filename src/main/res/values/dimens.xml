@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Стандартные отступы для экранов согласно руководству Android Design. -->
+    <dimen name="plain_0">0dp</dimen>
+    <dimen name="dim_2">16dp</dimen>
+    <dimen name="dim_1">8dp</dimen>
+    <dimen name="dim_0_5">4dp</dimen>
+    <dimen name="dim_0_2_5">2dp</dimen>
+    <dimen name="cat_img_height">194dp</dimen>
+</resources>

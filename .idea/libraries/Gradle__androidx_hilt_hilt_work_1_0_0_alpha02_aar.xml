@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.hilt:hilt-work:1.0.0-alpha02@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/12b6932a59a675e7dc19aae90f6c379b/hilt-work-1.0.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/12b6932a59a675e7dc19aae90f6c379b/hilt-work-1.0.0-alpha02/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/12b6932a59a675e7dc19aae90f6c379b/hilt-work-1.0.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/0c392677980ef6b83cd7b4247b2906fe/hilt-work-1.0.0-alpha02/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/4bd378fa67b80c7c72837a56dcf9f14e/hilt-work-1.0.0-alpha02/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/4bd378fa67b80c7c72837a56dcf9f14e/hilt-work-1.0.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/4bd378fa67b80c7c72837a56dcf9f14e/hilt-work-1.0.0-alpha02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/androidx.hilt/hilt-work/1.0.0-alpha02/fa5dbb242cd059ba9abf8cbb921819fe163a12f5/hilt-work-1.0.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

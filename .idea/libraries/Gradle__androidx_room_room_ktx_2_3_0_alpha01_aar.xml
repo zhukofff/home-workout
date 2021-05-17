@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-ktx:2.3.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/e76e23ee5acdb4328f1bbbd2633805bc/room-ktx-2.3.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/e76e23ee5acdb4328f1bbbd2633805bc/room-ktx-2.3.0-alpha01/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/e76e23ee5acdb4328f1bbbd2633805bc/room-ktx-2.3.0-alpha01/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/87488a09f6d832283a608923c65b4d5b/room-ktx-2.3.0-alpha01/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/9e2a268cd3461d24c4ee1c373cadb5aa/room-ktx-2.3.0-alpha01/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/9e2a268cd3461d24c4ee1c373cadb5aa/room-ktx-2.3.0-alpha01/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/9e2a268cd3461d24c4ee1c373cadb5aa/room-ktx-2.3.0-alpha01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/androidx.room/room-ktx/2.3.0-alpha01/213b871f734e8bd4743e6230bff4ad03bace3aaf/room-ktx-2.3.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
