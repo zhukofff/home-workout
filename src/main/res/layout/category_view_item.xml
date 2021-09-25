@@ -25,7 +25,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/cat_img_height"
                 android:contentDescription="@string/content_description_category_cardio"
-                tools:src="@drawable/ctgr_cardio"
+                tools:src="@drawable/cardio_a"
                 app:srcImage="@{category.id}"/>
 
             <LinearLayout

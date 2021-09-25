@@ -1,17 +1,22 @@
 package com.example.gym.ui
 
-import androidx.hilt.lifecycle.ViewModelInject
+import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
 import com.example.gym.model.Workout
 import com.example.gym.model.WorkoutCategory
 import com.example.gym.repository.WorkoutRepository
+import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import javax.inject.Inject
 
-class  HomeViewModel @ViewModelInject constructor(
+
+const val TAG = "Home"
+
+@HiltViewModel
+class  HomeViewModel @Inject constructor(
     repository: WorkoutRepository
 ) : ViewModel() {
 

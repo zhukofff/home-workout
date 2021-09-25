@@ -29,12 +29,8 @@ class WorkoutCategoryAdapter : androidx.recyclerview.widget.ListAdapter<WorkoutC
 
     override fun onBindViewHolder(holder: WorkoutCategoryViewHolder, position: Int) {
         val item = getItem(position)
+        holder.bind(item)
     }
-
-    // getItem -- это функция из ListAdapter, которая позволяет определить позиуию элемента макета
-
-    // Что такое companion object (вспомогательный объект)? Это как бы дополнительный класс, завёрнутый в классе, реализованный в виде объекта
-
 }
 
 class WorkoutCategoryViewHolder(private val binding : CategoryViewItemBinding) : RecyclerView.ViewHolder(binding.root) {
@@ -43,7 +39,6 @@ class WorkoutCategoryViewHolder(private val binding : CategoryViewItemBinding) :
         binding.category = workoutCategory
         binding.executePendingBindings()
         // Этот вызов это опитимизация, которая спрашивае привязку данных: выполнить все ожидающие привязки?
-
     }
 
     companion object {

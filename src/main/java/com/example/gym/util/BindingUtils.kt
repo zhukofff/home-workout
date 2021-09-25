@@ -15,7 +15,7 @@ fun RecyclerView.bindRecyclerView(list: List<Workout>?) {
 }
 
 /*
-    BindingAdapter для отображения подходящие изображения тренировок
+BindingAdapter для отображения подходящих изображений тренировок
  */
 @BindingAdapter("srcImage")
 fun ImageView.bindImage(code: String?) {
@@ -27,8 +27,9 @@ fun ImageView.bindImage(code: String?) {
 /**
  *  BindingAdapter, используемый для отправки списка категорий к [WorkoutCategoryAdapter]
  */
+
 @BindingAdapter("categoryListData")
-fun RecyclerView.bindList(list: List<WorkoutCategory>) {
+fun RecyclerView.bindList(list: List<WorkoutCategory>?) {
     val adapter = adapter  as WorkoutCategoryAdapter
     adapter.submitList(list)
 }

@@ -67,7 +67,6 @@
                 android:textColor="?android:attr/textColorSecondary"
                 app:drawableStartCompat="@drawable/ic_time"
                 tools:text="1min" />
-
         </LinearLayout>
 
         <ImageButton
