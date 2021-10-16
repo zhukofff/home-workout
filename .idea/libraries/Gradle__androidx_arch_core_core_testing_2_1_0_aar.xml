@@ -1,10 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.arch.core:core-testing:2.1.0@aar">
     <CLASSES>
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/93ef0a043fcd1a3502bfb60293a8fe0e/core-testing-2.1.0/res" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7ea096c052d77bc5afb67b27b48e8d5c/core-testing-2.1.0/AndroidManifest.xml" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7ea096c052d77bc5afb67b27b48e8d5c/core-testing-2.1.0/res" />
-      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7ea096c052d77bc5afb67b27b48e8d5c/core-testing-2.1.0/jars/classes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/711d08fab07ec4d964e29007c7d8cb3d/core-testing-2.1.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/711d08fab07ec4d964e29007c7d8cb3d/core-testing-2.1.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/711d08fab07ec4d964e29007c7d8cb3d/core-testing-2.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

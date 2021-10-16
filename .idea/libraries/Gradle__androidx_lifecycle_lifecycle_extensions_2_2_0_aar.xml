@@ -1,10 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-extensions:2.2.0@aar">
     <CLASSES>
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/db311e50ff90b26933226c8d5dea8321/lifecycle-extensions-2.2.0/res" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7f712314b9d3ca04416ae88b32fd5d56/lifecycle-extensions-2.2.0/AndroidManifest.xml" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7f712314b9d3ca04416ae88b32fd5d56/lifecycle-extensions-2.2.0/res" />
-      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7f712314b9d3ca04416ae88b32fd5d56/lifecycle-extensions-2.2.0/jars/classes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/00ebba3dbffe506e6c904d8334fedf3a/lifecycle-extensions-2.2.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/00ebba3dbffe506e6c904d8334fedf3a/lifecycle-extensions-2.2.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/00ebba3dbffe506e6c904d8334fedf3a/lifecycle-extensions-2.2.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

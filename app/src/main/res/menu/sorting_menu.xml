@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/name"
+        android:title="Имя (от А до Я)"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/category"
+        android:title="Категория (от А до Я)"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/time"
+        android:title="Время (вначале короткие)"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/complexity"
+        android:title="По сложности"
+        app:showAsAction="never"/>
+    </group>
+</menu>

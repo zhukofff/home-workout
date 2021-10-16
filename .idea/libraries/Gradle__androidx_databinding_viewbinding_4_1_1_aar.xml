@@ -1,10 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.databinding:viewbinding:4.1.1@aar">
     <CLASSES>
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/3fa5228e2e5107055d5bfb45f9f3ef18/viewbinding-4.1.1/res" />
-      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/4363462d195dcf12d12f457d45ee6dfb/viewbinding-4.1.1/jars/classes.jar!/" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/4363462d195dcf12d12f457d45ee6dfb/viewbinding-4.1.1/AndroidManifest.xml" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/4363462d195dcf12d12f457d45ee6dfb/viewbinding-4.1.1/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7e158e49b6385b2d4d27e12963f0571c/viewbinding-4.1.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7e158e49b6385b2d4d27e12963f0571c/viewbinding-4.1.1/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7e158e49b6385b2d4d27e12963f0571c/viewbinding-4.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

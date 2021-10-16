@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Timer -->
+    <style name="Gym.ProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_circle</item>
+        <item name="android:minHeight">250dp</item>
+        <item name="android:maxHeight">250dp</item>
+        <item name="android:minWidth">250dp</item>
+        <item name="android:maxWidth">250dp</item>
+        <item name="android:indeterminateOnly">false</item>
+    </style>
+
+    <style name="Widget.Gym.ActionButton" parent ="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_baseline_sort_24</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-contrib:3.3.0@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/eca1234f901a280e2dc66f20f48bd051/espresso-contrib-3.3.0/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/81b434bd043e9c7ab05e756721370eff/espresso-contrib-3.3.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/81b434bd043e9c7ab05e756721370eff/espresso-contrib-3.3.0/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/81b434bd043e9c7ab05e756721370eff/espresso-contrib-3.3.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/androidx.test.espresso/espresso-contrib/3.3.0/78d6e8ecb2b71dae144339d65fe060b7ee4e95bb/espresso-contrib-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/androidx.test.espresso/espresso-contrib/3.3.0/d6a1de98eb08b811198fb2a65ee42b007656948d/espresso-contrib-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WORKOUT TUSOVKA</string>
+    <string name="action_start">Старт</string>
+
+    <string name="content_description_category_arms">Arms category image</string>
+    <string name="content_description_category_cardio">Cardio category image</string>
+    <string name="content_description_category_workout">Workout image</string>
+    <string name="content_description_play">Play</string>
+    <string name="title_home">Главная страница</string>
+    <string name="title_workout">Воркаут</string>
+    <string name="title_favourite">Избранные</string>
+    <string-array name="sort_order">
+        <item name="title">Имя (от А до Я)</item>
+        <item name="category">Категория (от А до Я)</item>
+        <item name="time">Время (вначале короткие)</item>
+        <item name="complexity">По сложности (вначале лёгкие)</item>
+    </string-array>
+</resources>

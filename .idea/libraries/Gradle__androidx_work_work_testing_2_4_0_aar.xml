@@ -1,10 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.work:work-testing:2.4.0@aar">
     <CLASSES>
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/7834dbc9c52d1084249b5b402ae52720/work-testing-2.4.0/res" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/6150e75dfe4255ed9e52362c689ac7ca/work-testing-2.4.0/AndroidManifest.xml" />
-      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/6150e75dfe4255ed9e52362c689ac7ca/work-testing-2.4.0/jars/classes.jar!/" />
-      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/6150e75dfe4255ed9e52362c689ac7ca/work-testing-2.4.0/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/1f072b2e8e37fc35ad4fc74026cf81db/work-testing-2.4.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/1f072b2e8e37fc35ad4fc74026cf81db/work-testing-2.4.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-2/files-2.1/1f072b2e8e37fc35ad4fc74026cf81db/work-testing-2.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

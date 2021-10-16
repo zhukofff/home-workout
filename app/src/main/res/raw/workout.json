@@ -1,0 +1,75 @@
+[
+	{
+		"id": 1,
+		"title": "Приседания"  ,
+		"category": "legs",
+		"time": 60,
+		"iconCode": "legs_a",
+		"instruction": "Расположите ноги на уровне ширине плеч, опусканием таза двигайтесь противоположно той стороне, на которую смотрите, глаза вверх, руки положить крестообразным способ на плечи",
+		"isSaved": false,
+		"timeSaved": 0,
+		"isRecommended": false,
+		"complexity" : "сложно"
+	},
+	{
+		"id": 2,
+		"title": "Скалолаз" , 
+		"category": "cardio",
+		"time": 60,
+		"iconCode": "cardio_a",
+		"instruction": "расположите ноги на полу на ширине плеч, старайтесь тянуть колени к брюшному прессу будто вы хотите себя ударить или избить",
+		"isSaved": false,
+		"timeSaved": 0,
+		"isRecommended": false,
+		"complexity" : "сложно"
+	},
+	{
+		"id": 3,
+		"title": "Подтягивания",
+		"category": "back",
+		"time": 60,
+		"iconCode": "arms_a",
+		"instruction": "насколько узко возможно запрыгните на турник и представьте, что вам нужно головой пробить перекладину турника",
+		"isSaved": false,
+		"timeSaved": 0,
+		"isRecommended": false,
+		"complexity" : "сложно"
+
+	},
+	{
+		"id": 4,
+		"title": "Подтягивания",
+		"category": "back",
+		"time": 60,
+		"iconCode": "arms_a",
+		"instruction": "насколько узко возможно запрыгните на турник и представьте, что вам нужно головой пробить перекладину турника",
+		"isSaved": false,
+		"timeSaved": 0,
+		"isRecommended": false,
+		"complexity" : "средний"
+	},
+	{
+		"id": 5,
+		"title": "Австралийские",
+		"category": "back",
+		"time": 30,
+		"iconCode": "arms_a",
+		"instruction": "насколько узко возможно запрыгните на турник и представьте, что вам нужно головой пробить перекладину турника",
+		"isSaved": false,
+		"timeSaved": 0,
+		"isRecommended": false,
+		"complexity" : "легкий"
+	},
+	{
+		"id": 6,
+		"title": "Передний вис",
+		"category": "back",
+		"time": 10,
+		"iconCode": "arms_a",
+		"instruction": "насколько узко возможно запрыгните на турник и представьте, что вам нужно головой пробить перекладину турника",
+		"isSaved": false,
+		"timeSaved": 0,
+		"isRecommended": false,
+		"complexity" : "сложный"
+	}
+]

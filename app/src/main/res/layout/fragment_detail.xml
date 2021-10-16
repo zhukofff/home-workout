@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/exercise_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/orange"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_baseline_keyboard_backspace_24"
+        app:title="Упражнение">
+
+        <ImageView
+            android:id="@+id/favourite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/ic_baseline_favorite_border_24" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <ImageView
+        android:id="@+id/exercise_image"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/exercise_name"
+        tools:src="@drawable/arms_a" />
+
+    <Button
+        android:id="@+id/hide_exercise_description"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/orange"
+        android:clickable="false"
+        android:text="Описание"
+        app:layout_constraintTop_toBottomOf="@+id/exercise_image" />
+
+    <TextView
+        android:id="@+id/exercise_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="37dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toBottomOf="@+id/hide_exercise_description" />
+
+    <Button
+        android:id="@+id/hide_exercise_instruction"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/orange"
+        android:text="Инструкция"
+        app:layout_constraintTop_toBottomOf="@+id/exercise_description" />
+
+    <TextView
+        android:id="@+id/exercise_instruction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="37dp"
+        android:visibility="invisible"
+        app:layout_constraintTop_toBottomOf="@+id/exercise_image" />
+
+    <LinearLayout
+        android:id="@+id/buttonsTimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/hide_exercise_instruction"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/play"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_baseline_play_arrow_24"/>
+
+        <ImageView
+            android:id="@+id/pause"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_baseline_pause_24"/>
+
+        <ImageView
+            android:id="@+id/refresh"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_baseline_refresh_24"/>
+    </LinearLayout>
+
+    <com.example.gym.ui.detail.TimerProgressBar
+        android:id="@+id/timer_progress"
+        android:layout_width="256dp"
+        android:layout_height="256dp"
+        app:layout_constraintTop_toBottomOf="@id/buttonsTimer"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
